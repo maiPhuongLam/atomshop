@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Các bình luận về: Sản phẩm 1	</title>
+	<atom:link href="http://127.0.0.1/atomshop/index.php/san-pham/san-pham-1/feed/?simply_static_page=17260" rel="self" type="application/rss+xml" />
+	<link>https://github.com/maiPhuongLam/atomshop.git/index.php/san-pham/san-pham-1/</link>
+	<description></description>
+	<lastBuildDate>Wed, 19 Jun 2024 16:31:39 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+</channel>
+</rss>
