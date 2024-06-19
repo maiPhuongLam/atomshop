@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Chưa phân loại &#8211; atomshop</title>
-	<atom:link href="http://127.0.0.1/atomshop/index.php/danh-muc-san-pham/chua-phan-loai/feed/?simply_static_page=32745" rel="self" type="application/rss+xml" />
-	<link>https://github.com/maiPhuongLam/atomshop.git</link>
+	<atom:link href="http://127.0.0.1/atomshop/index.php/danh-muc-san-pham/chua-phan-loai/feed/?simply_static_page=41192" rel="self" type="application/rss+xml" />
+	<link>https://maiphuonglam.github.io/atomshop</link>
 	<description></description>
 	<lastBuildDate>Wed, 19 Jun 2024 16:31:39 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>Sản phẩm 1</title>
-		<link>https://github.com/maiPhuongLam/atomshop.git/index.php/san-pham/san-pham-1/</link>
-					<comments>https://github.com/maiPhuongLam/atomshop.git/index.php/san-pham/san-pham-1/#respond</comments>
+		<link>https://maiphuonglam.github.io/atomshop/index.php/san-pham/san-pham-1/</link>
+					<comments>https://maiphuonglam.github.io/atomshop/index.php/san-pham/san-pham-1/#respond</comments>
 		
 		<dc:creator><![CDATA[root]]></dc:creator>
 		<pubDate>Wed, 19 Jun 2024 16:31:39 +0000</pubDate>
-				<guid isPermaLink="false">https://github.com/maiPhuongLam/atomshop.git/?post_type=product#038;p=57</guid>
+				<guid isPermaLink="false">https://maiphuonglam.github.io/atomshop/?post_type=product#038;p=57</guid>
 
 					<description><![CDATA[Đây là mô tả sản phẩm]]></description>
 										<content:encoded><![CDATA[<p>Đây là mô tả sản phẩm</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://github.com/maiPhuongLam/atomshop.git/index.php/san-pham/san-pham-1/feed/</wfw:commentRss>
+					<wfw:commentRss>https://maiphuonglam.github.io/atomshop/index.php/san-pham/san-pham-1/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

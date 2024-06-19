@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Bình luận cho atomshop	</title>
-	<atom:link href="http://127.0.0.1/atomshop/index.php/comments/feed/?simply_static_page=32630" rel="self" type="application/rss+xml" />
-	<link>https://github.com/maiPhuongLam/atomshop.git</link>
+	<atom:link href="http://127.0.0.1/atomshop/index.php/comments/feed/?simply_static_page=41080" rel="self" type="application/rss+xml" />
+	<link>https://maiphuonglam.github.io/atomshop</link>
 	<description></description>
 	<lastBuildDate>Wed, 19 Jun 2024 16:14:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Bình luận cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>https://github.com/maiPhuongLam/atomshop.git/index.php/2024/06/19/chao-moi-nguoi/#comment-1</link>
+		<link>https://maiphuonglam.github.io/atomshop/index.php/2024/06/19/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
 		<pubDate>Wed, 19 Jun 2024 16:14:38 +0000</pubDate>
-		<guid isPermaLink="false">https://github.com/maiPhuongLam/atomshop.git/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://maiphuonglam.github.io/atomshop/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
