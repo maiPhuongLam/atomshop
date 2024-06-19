@@ -9,7 +9,7 @@
 
 <channel>
 	<title>atomshop</title>
-	<atom:link href="http://127.0.0.1/atomshop/index.php/feed/?simply_static_page=17164" rel="self" type="application/rss+xml" />
+	<atom:link href="http://127.0.0.1/atomshop/index.php/feed/?simply_static_page=32629" rel="self" type="application/rss+xml" />
 	<link>https://github.com/maiPhuongLam/atomshop.git</link>
 	<description></description>
 	<lastBuildDate>Wed, 19 Jun 2024 16:14:38 +0000</lastBuildDate>
